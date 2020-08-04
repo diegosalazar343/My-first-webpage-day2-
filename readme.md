@@ -1,8 +1,8 @@
 # _My First Webpage_
 
-#### Spacing, indentation, blocking, and inline elements exercise for Epicodus, 08.03.2020
+#### Spacing, indentation, blocking, and inline elements exercise for Epicodus, 08.04.2020
 
-#### By Cameron Will Mike Manchee
+#### By Cameron Will Diego Salazar
 
 ## Description
 
@@ -19,5 +19,5 @@ This lesson is intended for the practice of blocking, indentation, and spacing a
 
 ### Legal
 
-* Copyright (c) 2020 Cameron Will, Mike Manchee
+* Copyright (c) 2020 Cameron Will, Diego Salazar
 * This software is licensed under the MIT license.
