@@ -1,21 +1,21 @@
 # _My First Webpage_
 
-#### _Blocking Exercise for Epicodus, 08.03.2020_
+#### Indentation/Spacing Exercise for Epicodus, 08.03.2020
 
-#### _By Cameron Will Mike Manchee_
+#### By Cameron Will Mike Manchee
 
 ## Description
 
-_Lesson for blocking, indentation, and spacing_
+This lesson is intended for the practice of blocking, indentation, and spacing as we begin writing code.
 
-##Setup
+## Setup
 
-* _Open and view_
+* Open and view
 
-##Technologies Used
+## Technologies Used
 
-* _HTML_
-  _CSS_
+* HTML
+  CSS
 
 ### Legal
 
