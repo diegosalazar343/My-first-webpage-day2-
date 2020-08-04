@@ -1,6 +1,6 @@
 # _My First Webpage_
 
-#### Indentation/Spacing Exercise for Epicodus, 08.03.2020
+#### Spacing, indentation, blocking, and inline elements exercise for Epicodus, 08.03.2020
 
 #### By Cameron Will Mike Manchee
 
