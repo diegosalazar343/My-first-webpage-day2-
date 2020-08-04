@@ -4,4 +4,20 @@
 
 #### _By Cameron Will Mike Manchee_
 
-## _Description_
+## Description
+
+_Lesson for blocking, indentation, and spacing_
+
+##Setup
+
+* _Open and view_
+
+##Technologies Used
+
+* _HTML_
+  _CSS_
+
+### Legal
+
+* Copyright (c) 2020 Cameron Will, Mike Manchee
+* This software is licensed under the MIT license.
